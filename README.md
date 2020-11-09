@@ -7,7 +7,7 @@ Comet Fall. You control a comet floating through space and your goal is to trave
 | --------------- | -------- | ----------- |
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzcyNzg3Mdi5wbmc=/original/AU5pWY.png" />
+  <img src="https://github.com/warrjack/CometFall/blob/main/Screenshots/Gameplay1.JPG" />
 </p>
 
 [:camera: See Screenshots](#screenshots)
@@ -15,7 +15,7 @@ Comet Fall. You control a comet floating through space and your goal is to trave
 
 ## Getting Started
 
-Follow the below instructions to get started with Red Runner source code:
+Follow the below instructions to get started with Comet Fall source code:
 
 1. [Make sure you have all Requirements](#requirements)
 2. [Download Source Code](#download)
@@ -42,25 +42,20 @@ git clone https://github.com/warrjack/CometFall.git
 ## Screenshots
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbdmc=/original/HipFLL.png" />
+  <img src="https://github.com/warrjack/CometFall/blob/main/Screenshots/Menu.JPG" />
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2MdC5wbmc=/original/mb636l.png" />
+  <img src="https://github.com/warrjack/CometFall/blob/main/Screenshots/Gameplay1.JPG" />
 </p>
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzdczMjc2OS5wbmc=/original/UyNp4U.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzdczMjc3My5wbmc=/original/RAoMpO.png" />
+  <img src="https://github.com/warrjack/CometFall/blob/main/Screenshots/Gameplay2.JPG" />
 </p>
 
 ## Credits
-- Save System: [Save Game Pro - Save Everything](https://bayat.itch.io/save-game-pro-save-everything)
 - Game Engine: [Unity](https://unity3d.com/)
 
 ## Resources
 
-Visit my [website portfolio!](https://warrjack.weebly.com)
+Check out other work on my [website portfolio!](https://warrjack.weebly.com)
