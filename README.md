@@ -7,7 +7,7 @@ Comet Fall. You control a comet floating through space and your goal is to trave
 | --------------- | -------- | ----------- |
 
 <p align="center">
-  <img src="https://github.com/warrjack/CometFall/blob/main/Screenshots/Gameplay1.JPG" />
+  <img src="https://github.com/warrjack/CometFall/blob/main/Screenshots/Screenshot.png" />
 </p>
 
 [:camera: See Screenshots](#screenshots)
