@@ -30,7 +30,7 @@ Make sure you have the below requirements before starting:
 
 ## Download
 
-You can get access to Red Runner source code by using one of the following ways:
+You can get access to Comet Fall source code by using one of the following ways:
 
 - [:sparkles: Download Source Code](https://github.com/warrjack/CometFall/archive/master.zip)
 - Clone the repository locally:
@@ -58,4 +58,4 @@ git clone https://github.com/warrjack/CometFall.git
 
 ## Resources
 
-Check out other work on my [website portfolio!](https://warrjack.weebly.com)
+Check out other work on my [website portfolio!](https://warrjack.com)
